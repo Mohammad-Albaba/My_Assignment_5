@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Assignment 5</string>
+    <string name="simple_quiz">Simple Quiz</string>
+    <string name="start">Start</string>
+    <string name="question">Question</string>
+    <string name="count">1 / 5</string>
+    <string name="contextquestionone">What is the most popular mobile OS in the world ?</string>
+    <string name="ios">ios</string>
+    <string name="Android">Android</string>
+    <string name="Windowsphone">Windows Phone</string>
+    <string name="Confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="count2">2 / 5</string>
+    <string name="contextquestiontwo">What programming language we use to develop Android apps ?</string>
+    <string name="Python">Python</string>
+    <string name="JavaScript">JavaScript</string>
+    <string name="Java">Java</string>
+    <string name="count3">3 / 5</string>
+    <string name="contextquestionthree">"What is the official IDE for Android development ? "</string>
+    <string name="AndroidIDE">"Android IDE "</string>
+    <string name="AndroidStudio">"Android Studio "</string>
+    <string name="Eclipse">Eclipse</string>
+    <string name="count4">4 / 5</string>
+    <string name="contextquestionfour">"What is the name of the company that develop Android platform ? "</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Udacity">Udacity</string>
+    <string name="Google">Google</string>
+    <string name="count5">5 / 5</string>
+    <string name="contextquestionfive">"What is the latest version of Android ? "</string>
+    <string name="Pie">Pie</string>
+    <string name="a11">11</string>
+    <string name="Oreo">Oreo</string>
+    <string name="Result">Result</string>
+
+</resources>

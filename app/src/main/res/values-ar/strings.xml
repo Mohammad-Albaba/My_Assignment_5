@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >My Assignment 5</string>
+    <string name="simple_quiz">اختبار قصير</string>
+    <string name="start">ابدأ</string>
+    <string name="question">السؤال</string>
+    <string name="count">1 / 5</string>
+    <string name="contextquestionone">ما هو نظام التشغيل الأكثر انتشارا في العالم ؟</string>
+    <string name="ios">أيفون</string>
+    <string name="Android">أندرويد</string>
+    <string name="Windowsphone">ويندوز فون</string>
+    <string name="Confirm">تأكيد</string>
+    <string name="count2">2 / 5</string>
+    <string name="contextquestiontwo">ما هي لغة البرمجة التي نستخدمها لبرمجة تطبيقات أندرويد ؟</string>
+    <string name="JavaScript">جافا سكريبت</string>
+    <string name="Java">جافا</string>
+    <string name="Python">بايثون</string>
+    <string name="count3">3 / 5</string>
+    <string name="contextquestionthree">ما هي بيئة التطوير الرسمية المستخدمة في تطوير تطبيقات أندرويد ؟</string>
+    <string name="AndroidIDE">"بيئة تطوير أندرويد المتكاملة "</string>
+    <string name="AndroidStudio">"أندرويد ستوديو "</string>
+    <string name="Eclipse">إيكلبس</string>
+    <string name="count4">4 / 5</string>
+    <string name="Facebook">فيسبوك</string>
+    <string name="Udacity">يوداستي</string>
+    <string name="Google">جوجل</string>
+    <string name="contextquestionfour">"ما هو إسم الشركة المطورة لنظام أندرويد ؟ "</string>
+    <string name="count5">5 / 5</string>
+    <string name="contextquestionfive">"ما هو آخر إصدار من نظام أندرويد ؟ "</string>
+    <string name="Pie">Pie</string>
+    <string name="a11">11</string>
+    <string name="Oreo">Oreo</string>
+    <string name="Result">النتيجة</string>
+    <string name="next">التالي</string>
+</resources>
